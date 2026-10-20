@@ -1,0 +1,213 @@
+{
+  "passed": true,
+  "source_hashes_verified": 9,
+  "state_years": 81,
+  "crop_state_years": 324,
+  "reconciliations": [
+    {
+      "year": 2022,
+      "variable": "706",
+      "category": "117725",
+      "states": 27,
+      "known_sum": 3418,
+      "national": 3418,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "variable": "706",
+      "category": "117725",
+      "states": 27,
+      "known_sum": 3804,
+      "national": 3804,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "variable": "706",
+      "category": "117725",
+      "states": 27,
+      "known_sum": 4264,
+      "national": 4264,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "variable": "707",
+      "category": "117725",
+      "states": 27,
+      "known_sum": 12785,
+      "national": 12793,
+      "missing_states": 2,
+      "type": "known subtotal only",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "variable": "707",
+      "category": "117725",
+      "states": 27,
+      "known_sum": 13841,
+      "national": 13883,
+      "missing_states": 3,
+      "type": "known subtotal only",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "variable": "707",
+      "category": "117725",
+      "states": 27,
+      "known_sum": 15036,
+      "national": 15077,
+      "missing_states": 3,
+      "type": "known subtotal only",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "variable": "109",
+      "category": "2689",
+      "states": 27,
+      "known_sum": 1649624,
+      "national": 1649624,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "variable": "109",
+      "category": "2689",
+      "states": 27,
+      "known_sum": 1709605,
+      "national": 1709605,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "variable": "109",
+      "category": "2689",
+      "states": 27,
+      "known_sum": 1990451,
+      "national": 1990451,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "variable": "109",
+      "category": "2696",
+      "states": 27,
+      "known_sum": 9904313,
+      "national": 9904313,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "variable": "109",
+      "category": "2696",
+      "states": 27,
+      "known_sum": 10055204,
+      "national": 10055204,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "variable": "109",
+      "category": "2696",
+      "states": 27,
+      "known_sum": 10082808,
+      "national": 10082808,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "variable": "109",
+      "category": "2711",
+      "states": 27,
+      "known_sum": 21310449,
+      "national": 21310449,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "variable": "109",
+      "category": "2711",
+      "states": 27,
+      "known_sum": 22546782,
+      "national": 22546782,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "variable": "109",
+      "category": "2711",
+      "states": 27,
+      "known_sum": 21401237,
+      "national": 21401237,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "variable": "109",
+      "category": "2713",
+      "states": 27,
+      "known_sum": 41297663,
+      "national": 41297663,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "variable": "109",
+      "category": "2713",
+      "states": 27,
+      "known_sum": 44423983,
+      "national": 44423983,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "variable": "109",
+      "category": "2713",
+      "states": 27,
+      "known_sum": 46208798,
+      "national": 46208798,
+      "missing_states": 0,
+      "type": "exact",
+      "passed": true
+    }
+  ],
+  "map_states": 27,
+  "raw_symbol_counts": {
+    "-": 40,
+    "X": 8,
+    "...": 0,
+    "..": 0
+  }
+}
