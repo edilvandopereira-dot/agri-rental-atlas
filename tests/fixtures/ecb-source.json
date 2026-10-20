@@ -1,0 +1,6 @@
+{
+  "url": "https://data-api.ecb.europa.eu/service/data/EXR/D.USD+BRL+CNY.EUR.SP00.A?lastNObservations=1&format=csvdata",
+  "retrieved_date": "2026-10-20",
+  "sha256": "4c85e7562c0d6255e817ca687fa8ab08a24d896ab04abbaadbdf566a204df2bb",
+  "purpose": "Pinned parser test only; the portal fetches independently at runtime."
+}
