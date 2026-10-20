@@ -1,0 +1,74 @@
+{
+  "provider": "IBGE",
+  "data_years": [
+    2022,
+    2023,
+    2024
+  ],
+  "scope": "CEMPRE CNAE class 77.31-4, agricultural machinery rental without operator; PAM four selected crops",
+  "files": [
+    {
+      "file": "rental_states.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/9528/periodos/2022|2023|2024/variaveis/706|707?localidades=N3[all]&classificacao=12762[117725]",
+      "sha256": "210e8a96a2923c7dcb49ec5fcff518177f60ac0e1fc3fa7db018e145efd7ab0b",
+      "retrieved_at": "2026-10-20T18:50:57.076857+00:00",
+      "bytes": 8504
+    },
+    {
+      "file": "rental_brazil.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/9528/periodos/2022|2023|2024/variaveis/706|707?localidades=N1[1]&classificacao=12762[117725]",
+      "sha256": "4c9536cfb1abd15f3c8f292568247fd291dbf4848d809a05ada3cb5fda4bc461",
+      "retrieved_at": "2026-10-20T18:50:56.809260+00:00",
+      "bytes": 858
+    },
+    {
+      "file": "companies_brazil.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/9418/periodos/2022|2023|2024/variaveis/2585?localidades=N1[1]&classificacao=12762[117725]",
+      "sha256": "f1bac388ec0429dda32da37d5e13c159b65d1c83bb754df83b5ebb4b9b0f06a3",
+      "retrieved_at": "2026-10-20T18:50:56.774243+00:00",
+      "bytes": 449
+    },
+    {
+      "file": "crop_states.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/1612/periodos/2022|2023|2024/variaveis/109?localidades=N3[all]&classificacao=81[2689,2696,2711,2713]",
+      "sha256": "0d7ac6f569d7b902bc0801902e90f4674b3a16a7dd23e59c39c8066eb19afe19",
+      "retrieved_at": "2026-10-20T18:50:03.880143+00:00",
+      "bytes": 17118
+    },
+    {
+      "file": "crop_brazil.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/1612/periodos/2022|2023|2024/variaveis/109?localidades=N1[1]&classificacao=81[2689,2696,2711,2713]",
+      "sha256": "ee0fec1a1c34bcb14233bc9841a062350df5a06f5ca0c8f6e2346b27dd9eb974",
+      "retrieved_at": "2026-10-20T18:50:04.158660+00:00",
+      "bytes": 1164
+    },
+    {
+      "file": "states.json",
+      "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados",
+      "sha256": "7ca1368dea3af83cba1af84ae8a7e88f1173c97586831d086cc8b3c1ba9c6596",
+      "retrieved_at": "2026-10-20T18:50:04.487221+00:00",
+      "bytes": 2446
+    },
+    {
+      "file": "brazil_states.geojson",
+      "url": "https://servicodados.ibge.gov.br/api/v3/malhas/paises/BR?intrarregiao=UF&qualidade=minima&formato=application/vnd.geo+json",
+      "sha256": "07c671aa87aa1ab296c446de6294df9827112782537b996c0a160284907e7c0f",
+      "retrieved_at": "2026-10-20T18:51:05.059903+00:00",
+      "bytes": 98502
+    },
+    {
+      "file": "metadata_rental.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/9528/metadados",
+      "sha256": "afb1341f98886f22382675bfdaeaadc4d483fe6d3bce9a7a234923b85b543a0e",
+      "retrieved_at": "2026-10-20T18:50:57.027254+00:00",
+      "bytes": 117387
+    },
+    {
+      "file": "metadata_crop.json",
+      "url": "https://servicodados.ibge.gov.br/api/v3/agregados/1612/metadados",
+      "sha256": "19755ad7514b697fce888bc0331ba222181c5d421c0918635a86545abcc8b73c",
+      "retrieved_at": "2026-10-20T18:50:57.013096+00:00",
+      "bytes": 4213
+    }
+  ]
+}
