@@ -1,0 +1,44 @@
+{
+  "verified_on": "2026-10-20",
+  "repository_url": "https://github.com/edilvandopereira-dot/agri-rental-atlas",
+  "repository_visibility": "public",
+  "dashboard_url": "https://edilvandopereira-dot.github.io/agri-rental-atlas/",
+  "post_review_url": "https://edilvandopereira-dot.github.io/agri-rental-atlas/post-review.html",
+  "initial_code_commit": "368dfbb567d0246c14e224da789aa85f6fb74bc6",
+  "public_clone_verified": true,
+  "files_compared_at_initial_verification": 37,
+  "files_byte_identical_at_initial_verification": 36,
+  "initial_difference": "README.md editorial update pending at comparison time; superseded by the subsequent publication documentation commit.",
+  "reproduction_from_public_clone": {
+    "python_tests": 5,
+    "node_tests": 8,
+    "source_reconciliation_checks": 18,
+    "exact_checks": 15,
+    "employment_known_subtotal_checks": 3,
+    "result": "passed"
+  },
+  "initial_ci_url": "https://github.com/edilvandopereira-dot/agri-rental-atlas/actions/runs/39492415302",
+  "initial_ci_conclusion": "success",
+  "initial_pages_deployment_url": "https://github.com/edilvandopereira-dot/agri-rental-atlas/actions/runs/39492088070",
+  "initial_pages_deployment_conclusion": "success",
+  "public_browser_check": {
+    "languages": [
+      "pt-BR",
+      "en-US",
+      "zh-CN"
+    ],
+    "national_establishments_2024": 4264,
+    "state_selection": "Minas Gerais: 759 local units; national denominator unchanged",
+    "price_demo_brl": 1812.5,
+    "farm_demo_required_machines": 4,
+    "farm_demo_cost_brl": 54000,
+    "ecb_runtime_query": "success; daily reference with reference date displayed",
+    "review_figure_loaded": true,
+    "figure_dimensions": [
+      1200,
+      1350
+    ]
+  },
+  "linkedin_post_status": "draft_for_owner_review",
+  "privacy_scope": "Only this project code, aggregate public source data, planning models, public figure and review draft were uploaded; workspace campaign history and institutional/personal documents were excluded."
+}
