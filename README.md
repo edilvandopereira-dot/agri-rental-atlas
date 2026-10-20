@@ -64,7 +64,7 @@ Collect comparable, permissioned quotes with timestamp, municipality, machine ty
 
 ## Publication status
 
-Published on GitHub Pages and verified on 20 October 2026. No LinkedIn post has been published for this case. New posts require Edilvando’s review; the first soybean post’s authorization does not extend to subsequent posts.
+Published on GitHub Pages and verified on 20 October 2026. The approved English post was published and verified on 20 October 2026: [read the LinkedIn post](https://www.linkedin.com/feed/update/urn:li:share:7518410396161011712/). New posts require Edilvando’s review; the first soybean post’s authorization does not extend to subsequent posts.
 
 ## Editorial figure
 
