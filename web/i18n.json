@@ -1,0 +1,822 @@
+{
+  "skip": {
+    "pt-BR": "Ir para os dados",
+    "en-US": "Skip to data",
+    "zh-CN": "跳转至数据"
+  },
+  "applied": {
+    "pt-BR": "CIÊNCIA DE DADOS APLICADA",
+    "en-US": "APPLIED DATA SCIENCE",
+    "zh-CN": "应用数据科学"
+  },
+  "motto": {
+    "pt-BR": "Estatística. Rastreabilidade. Decisões.",
+    "en-US": "Statistics. Reproducibility. Decisions.",
+    "zh-CN": "统计 · 可复现 · 决策"
+  },
+  "language": {
+    "pt-BR": "Idioma",
+    "en-US": "Language",
+    "zh-CN": "语言"
+  },
+  "edition": {
+    "pt-BR": "BRASIL / INTELIGÊNCIA EM LOCAÇÃO AGRÍCOLA",
+    "en-US": "BRAZIL / AGRI-RENTAL INTELLIGENCE",
+    "zh-CN": "巴西 / 农机租赁情报"
+  },
+  "navMarket": {
+    "pt-BR": "01 · Geografia do mercado",
+    "en-US": "01 · Market geography",
+    "zh-CN": "01 · 市场分布"
+  },
+  "navEconomics": {
+    "pt-BR": "02 · Economia da locação",
+    "en-US": "02 · Rental economics",
+    "zh-CN": "02 · 租赁经济分析"
+  },
+  "navOperations": {
+    "pt-BR": "03 · Janela operacional",
+    "en-US": "03 · Work window",
+    "zh-CN": "03 · 作业窗口"
+  },
+  "navBase": {
+    "pt-BR": "04 · Explorar a base",
+    "en-US": "04 · Explore the base",
+    "zh-CN": "04 · 探索数据"
+  },
+  "navMethod": {
+    "pt-BR": "05 · Fontes e método",
+    "en-US": "05 · Sources & method",
+    "zh-CN": "05 · 来源与方法"
+  },
+  "official": {
+    "pt-BR": "DADOS OFICIAIS · 2022–2024",
+    "en-US": "OFFICIAL DATA · 2022–2024",
+    "zh-CN": "官方数据 · 2022–2024"
+  },
+  "headline": {
+    "pt-BR": "A próxima decisão de frota começa com uma pergunta melhor.",
+    "en-US": "A better fleet decision starts with a better question.",
+    "zh-CN": "更好的机队决策，始于更好的问题。"
+  },
+  "lede": {
+    "pt-BR": "Explore o território. Teste a economia da locação. Planeje a janela de trabalho. Dados públicos e cenários para quem opera o agro.",
+    "en-US": "Explore the territory. Test rental economics. Plan the work window. Public data and scenarios for agricultural decision-makers.",
+    "zh-CN": "探索地域格局，测算租赁经济性，规划作业窗口。为农业决策提供公共数据与情景分析。"
+  },
+  "explore": {
+    "pt-BR": "Explorar o atlas",
+    "en-US": "Explore the atlas",
+    "zh-CN": "探索图谱"
+  },
+  "scope": {
+    "pt-BR": "CNAE 77.31-4 · Locação sem operador · Estabelecimentos não representam máquinas ou frota disponível.",
+    "en-US": "CNAE 77.31-4 · Rental without operator · Establishments do not represent machines or available fleet.",
+    "zh-CN": "CNAE 77.31-4 · 不含操作员的租赁 · 经营场所数量不代表设备数量或可用机队。"
+  },
+  "heroState": {
+    "pt-BR": "O PONTO DE PARTIDA / MATO GROSSO, 2024",
+    "en-US": "THE STARTING POINT / MATO GROSSO, 2024",
+    "zh-CN": "分析起点 / MATO GROSSO，2024"
+  },
+  "heroCrop": {
+    "pt-BR": "da área plantada nas quatro culturas selecionadas no Brasil",
+    "en-US": "of Brazil’s planted area in four selected crops",
+    "zh-CN": "占巴西四种所选作物种植面积的比例"
+  },
+  "heroRental": {
+    "pt-BR": "dos estabelecimentos de locação agrícola",
+    "en-US": "of agricultural rental establishments",
+    "zh-CN": "占农业租赁经营场所的比例"
+  },
+  "heroQuestion": {
+    "pt-BR": "Uma diferença para investigar. Quais modelos de operação explicam essa geografia?",
+    "en-US": "A difference to investigate. Which operating models explain this geography?",
+    "zh-CN": "值得研究的差异：哪些经营模式解释了这一地域格局？"
+  },
+  "heroSource": {
+    "pt-BR": "IBGE · CEMPRE 9528 + PAM 1612 · Não comprova demanda não atendida.",
+    "en-US": "IBGE · CEMPRE 9528 + PAM 1612 · Does not establish unmet demand.",
+    "zh-CN": "IBGE · CEMPRE 9528 + PAM 1612 · 不能据此认定需求未被满足。"
+  },
+  "journey1": {
+    "pt-BR": "Onde investigar",
+    "en-US": "Where to investigate",
+    "zh-CN": "去哪里调研"
+  },
+  "journey1desc": {
+    "pt-BR": "Locadoras · território e prospecção",
+    "en-US": "Rental operators · territory & prospecting",
+    "zh-CN": "租赁公司 · 区域与客户开发"
+  },
+  "journey2": {
+    "pt-BR": "A que preço operar",
+    "en-US": "At what price to operate",
+    "zh-CN": "以什么价格运营"
+  },
+  "journey2desc": {
+    "pt-BR": "Locadoras · custo, utilização e margem",
+    "en-US": "Rental operators · cost, utilisation & margin",
+    "zh-CN": "租赁公司 · 成本、利用率与利润率"
+  },
+  "journey3": {
+    "pt-BR": "Como cumprir a janela",
+    "en-US": "How to meet the work window",
+    "zh-CN": "如何按时完成作业"
+  },
+  "journey3desc": {
+    "pt-BR": "Fazendas · capacidade e máquinas adicionais",
+    "en-US": "Farms · capacity & additional machines",
+    "zh-CN": "农场 · 作业能力与增租设备"
+  },
+  "chapterMarket": {
+    "pt-BR": "01 / EVIDÊNCIA OBSERVADA",
+    "en-US": "01 / OBSERVED EVIDENCE",
+    "zh-CN": "01 / 观测数据"
+  },
+  "marketTitle": {
+    "pt-BR": "O território vem antes da hipótese.",
+    "en-US": "Geography comes before the hypothesis.",
+    "zh-CN": "先看地域，再提假设。"
+  },
+  "marketDesc": {
+    "pt-BR": "Compare a presença formal das locadoras com a escala das culturas. Escolha um estado para aprofundar a investigação comercial.",
+    "en-US": "Compare the formal rental network with crop scale. Select a state to deepen the commercial investigation.",
+    "zh-CN": "比较登记在册的租赁网络与作物规模，选择一个州深入开展商业调研。"
+  },
+  "year": {
+    "pt-BR": "Ano de referência",
+    "en-US": "Reference year",
+    "zh-CN": "参考年份"
+  },
+  "crop": {
+    "pt-BR": "Área das culturas",
+    "en-US": "Crop footprint",
+    "zh-CN": "作物种植面积"
+  },
+  "focus": {
+    "pt-BR": "Estado em foco",
+    "en-US": "Focus state",
+    "zh-CN": "关注州"
+  },
+  "all": {
+    "pt-BR": "Quatro culturas selecionadas",
+    "en-US": "Four selected crops",
+    "zh-CN": "四种所选作物"
+  },
+  "soy": {
+    "pt-BR": "Soja",
+    "en-US": "Soybeans",
+    "zh-CN": "大豆"
+  },
+  "corn": {
+    "pt-BR": "Milho",
+    "en-US": "Corn",
+    "zh-CN": "玉米"
+  },
+  "cane": {
+    "pt-BR": "Cana-de-açúcar",
+    "en-US": "Sugar cane",
+    "zh-CN": "甘蔗"
+  },
+  "cotton": {
+    "pt-BR": "Algodão herbáceo",
+    "en-US": "Herbaceous cotton",
+    "zh-CN": "草棉"
+  },
+  "download": {
+    "pt-BR": "Baixar comparação",
+    "en-US": "Download comparison",
+    "zh-CN": "下载比较数据"
+  },
+  "sites": {
+    "pt-BR": "ESTABELECIMENTOS DE LOCAÇÃO",
+    "en-US": "RENTAL ESTABLISHMENTS",
+    "zh-CN": "租赁经营场所"
+  },
+  "firms": {
+    "pt-BR": "EMPRESAS DE LOCAÇÃO",
+    "en-US": "RENTAL COMPANIES",
+    "zh-CN": "租赁企业"
+  },
+  "footprint": {
+    "pt-BR": "ÁREA DAS CULTURAS SELECIONADAS",
+    "en-US": "SELECTED CROP FOOTPRINT",
+    "zh-CN": "所选作物种植面积"
+  },
+  "firmsNote": {
+    "pt-BR": "Empresas no Brasil, não filiais",
+    "en-US": "National enterprise count, not branches",
+    "zh-CN": "全国企业数量，非分支机构数量"
+  },
+  "areaNote": {
+    "pt-BR": "Hectares plantados; pode haver repetição de terras",
+    "en-US": "Planted hectares; repeated land is possible",
+    "zh-CN": "种植公顷数；同一土地可能重复计算"
+  },
+  "baseline": {
+    "pt-BR": "Base 2022 · nova série CEMPRE",
+    "en-US": "2022 baseline · newer CEMPRE series",
+    "zh-CN": "2022 年基准 · CEMPRE 新序列"
+  },
+  "growth": {
+    "pt-BR": "{value}% de variação dos estabelecimentos desde 2022",
+    "en-US": "{value}% change in locations since 2022",
+    "zh-CN": "经营场所数量较 2022 年变化 {value}%"
+  },
+  "mapChapter": {
+    "pt-BR": "O MAPA / PARTICIPAÇÕES NACIONAIS",
+    "en-US": "THE MAP / NATIONAL SHARES",
+    "zh-CN": "地图 / 全国份额"
+  },
+  "mapTitle": {
+    "pt-BR": "Uma diferença que merece investigação.",
+    "en-US": "A mismatch worth investigating.",
+    "zh-CN": "值得调研的分布差异。"
+  },
+  "clickState": {
+    "pt-BR": "Selecione um estado",
+    "en-US": "Select a state",
+    "zh-CN": "选择一个州"
+  },
+  "mapDesc": {
+    "pt-BR": "Participação na área menos participação nos estabelecimentos, em pontos percentuais. As duas usam o total do Brasil.",
+    "en-US": "Crop share minus establishment share, in percentage points. Both use Brazil totals.",
+    "zh-CN": "种植面积份额减去经营场所份额，单位为百分点。两者均以巴西全国总量为分母。"
+  },
+  "mapAria": {
+    "pt-BR": "Estados do Brasil; selecione para explorar os dados",
+    "en-US": "Brazil states; select to explore the evidence",
+    "zh-CN": "巴西各州；选择以探索数据"
+  },
+  "moreRental": {
+    "pt-BR": "Maior participação na locação",
+    "en-US": "More rental share",
+    "zh-CN": "租赁份额更高"
+  },
+  "balance": {
+    "pt-BR": "Próximo do equilíbrio",
+    "en-US": "Near balance",
+    "zh-CN": "接近均衡"
+  },
+  "moreCrop": {
+    "pt-BR": "Maior participação nas culturas",
+    "en-US": "More crop share",
+    "zh-CN": "作物份额更高"
+  },
+  "mapWarning": {
+    "pt-BR": "A diferença geográfica é um sinal para triagem. Não comprova demanda não atendida.",
+    "en-US": "Geographic mismatch is a screening signal. It does not establish unmet demand.",
+    "zh-CN": "地域差异仅是初步筛选信号，不能证明存在未满足的需求。"
+  },
+  "stateBrief": {
+    "pt-BR": "EM FOCO / ESTADO",
+    "en-US": "IN FOCUS / STATE",
+    "zh-CN": "聚焦 / 州"
+  },
+  "cropShareLong": {
+    "pt-BR": "da área brasileira nas culturas selecionadas",
+    "en-US": "of Brazil’s selected crop footprint",
+    "zh-CN": "占巴西所选作物种植面积"
+  },
+  "rentalShareLong": {
+    "pt-BR": "dos estabelecimentos de locação",
+    "en-US": "of rental establishments",
+    "zh-CN": "占租赁经营场所"
+  },
+  "sitesLower": {
+    "pt-BR": "estabelecimentos de locação",
+    "en-US": "rental establishments",
+    "zh-CN": "租赁经营场所"
+  },
+  "plantedHa": {
+    "pt-BR": "milhões de hectares plantados",
+    "en-US": "million planted hectares",
+    "zh-CN": "百万公顷种植面积"
+  },
+  "density": {
+    "pt-BR": "estabelecimentos / milhão de ha plantados",
+    "en-US": "establishments / million planted ha",
+    "zh-CN": "经营场所 / 百万种植公顷"
+  },
+  "nextQuestion": {
+    "pt-BR": "PRÓXIMA PERGUNTA COMERCIAL",
+    "en-US": "NEXT COMMERCIAL QUESTION",
+    "zh-CN": "下一步商业调研问题"
+  },
+  "trend": {
+    "pt-BR": "Presença dos estabelecimentos",
+    "en-US": "Establishment footprint",
+    "zh-CN": "经营场所数量变化"
+  },
+  "trendAria": {
+    "pt-BR": "Número de estabelecimentos no estado, de 2022 a 2024",
+    "en-US": "Establishment counts in the state, 2022 to 2024",
+    "zh-CN": "该州 2022 至 2024 年经营场所数量"
+  },
+  "trendNote": {
+    "pt-BR": "O crescimento conta locais; não mede faturamento ou utilização da frota.",
+    "en-US": "Growth counts locations; it does not measure revenue or fleet utilisation.",
+    "zh-CN": "增长指经营场所数量变化，不代表营收或机队利用率。"
+  },
+  "compareChapter": {
+    "pt-BR": "COMPARAÇÃO / OITO MAIORES ÁREAS",
+    "en-US": "COMPARISON / EIGHT LARGEST FOOTPRINTS",
+    "zh-CN": "比较 / 种植面积最大的八个州"
+  },
+  "compareTitle": {
+    "pt-BR": "Escala agrícola e presença de locadoras contam histórias diferentes.",
+    "en-US": "Crop scale and rental presence tell different stories.",
+    "zh-CN": "作物规模与租赁布局呈现不同的格局。"
+  },
+  "compareDesc": {
+    "pt-BR": "Oito estados com maior área para a seleção atual. O estado em foco não altera os denominadores nacionais.",
+    "en-US": "Eight states with the largest selected crop area. The focus state does not change national denominators.",
+    "zh-CN": "当前所选作物种植面积最大的八个州。关注州的选择不会改变全国分母。"
+  },
+  "sharesAria": {
+    "pt-BR": "Participação nacional na área e nos estabelecimentos para oito estados",
+    "en-US": "National crop and establishment shares for eight states",
+    "zh-CN": "八个州的全国作物面积份额与经营场所份额"
+  },
+  "cropShare": {
+    "pt-BR": "Participação na área",
+    "en-US": "Crop area share",
+    "zh-CN": "作物面积份额"
+  },
+  "rentalShare": {
+    "pt-BR": "Participação na locação",
+    "en-US": "Rental-establishment share",
+    "zh-CN": "租赁场所份额"
+  },
+  "chapterEconomics": {
+    "pt-BR": "02 / CENÁRIO DA LOCADORA",
+    "en-US": "02 / RENTAL OPERATOR SCENARIO",
+    "zh-CN": "02 / 租赁公司情景"
+  },
+  "economicsTitle": {
+    "pt-BR": "Uma diária só faz sentido com utilização.",
+    "en-US": "A day rate only makes sense with utilisation.",
+    "zh-CN": "日租金必须结合利用率来判断。"
+  },
+  "economicsDesc": {
+    "pt-BR": "Qual diária cobre seus custos e a margem desejada? Explore a sensibilidade aos dias faturados, antes de comparar uma proposta.",
+    "en-US": "What day rate covers your costs and target margin? Explore sensitivity to billable days before comparing a quote.",
+    "zh-CN": "什么日租金能够覆盖成本并达到目标利润率？比较报价前，先分析计费天数的影响。"
+  },
+  "scenario": {
+    "pt-BR": "SIMULADOR · PREMISSAS DO USUÁRIO",
+    "en-US": "SIMULATOR · USER ASSUMPTIONS",
+    "zh-CN": "模拟器 · 用户假设"
+  },
+  "loadDemo": {
+    "pt-BR": "Carregar exemplo ilustrativo",
+    "en-US": "Load illustrative example",
+    "zh-CN": "载入示例情景"
+  },
+  "scenarioNote": {
+    "pt-BR": "Campos vazios aguardam suas premissas. O exemplo é fictício e não representa preço de mercado. Valores monetários de entrada em BRL.",
+    "en-US": "Empty fields await your assumptions. The example is fictional and does not represent market pricing. Monetary inputs are in BRL.",
+    "zh-CN": "请填写假设。示例为虚构情景，不代表市场价格。金额输入单位为巴西雷亚尔（BRL）。"
+  },
+  "fixed": {
+    "pt-BR": "Custos fixos alocados / mês (BRL)",
+    "en-US": "Allocated fixed cost / month (BRL)",
+    "zh-CN": "分摊固定成本 / 月（BRL）"
+  },
+  "variable": {
+    "pt-BR": "Custo variável / dia faturado (BRL)",
+    "en-US": "Variable cost / billable day (BRL)",
+    "zh-CN": "可变成本 / 计费日（BRL）"
+  },
+  "logistics": {
+    "pt-BR": "Orçamento logístico / mês (BRL)",
+    "en-US": "Logistics budget / month (BRL)",
+    "zh-CN": "物流预算 / 月（BRL）"
+  },
+  "available": {
+    "pt-BR": "Dias disponíveis no mês",
+    "en-US": "Available days in month",
+    "zh-CN": "当月可用天数"
+  },
+  "billable": {
+    "pt-BR": "Dias faturados no mês",
+    "en-US": "Billable days in month",
+    "zh-CN": "当月计费天数"
+  },
+  "margin": {
+    "pt-BR": "Margem operacional desejada (%)",
+    "en-US": "Target operating margin (%)",
+    "zh-CN": "目标经营利润率（%）"
+  },
+  "quote": {
+    "pt-BR": "Diária da proposta (BRL, opcional)",
+    "en-US": "Quoted day rate (BRL, optional)",
+    "zh-CN": "报价日租金（BRL，可选）"
+  },
+  "floor": {
+    "pt-BR": "Diária para margem-alvo",
+    "en-US": "Day rate for target margin",
+    "zh-CN": "达到目标利润率所需日租金"
+  },
+  "utilisation": {
+    "pt-BR": "Utilização planejada",
+    "en-US": "Planned utilisation",
+    "zh-CN": "计划利用率"
+  },
+  "actualMargin": {
+    "pt-BR": "Margem na diária informada",
+    "en-US": "Margin at quoted day rate",
+    "zh-CN": "报价下的利润率"
+  },
+  "breakeven": {
+    "pt-BR": "Dias para equilíbrio",
+    "en-US": "Days to break even",
+    "zh-CN": "盈亏平衡计费天数"
+  },
+  "priceAria": {
+    "pt-BR": "Diária mínima por quantidade de dias faturados",
+    "en-US": "Required day rate by billable days",
+    "zh-CN": "不同计费天数下的所需日租金"
+  },
+  "priceFormula": {
+    "pt-BR": "Ver cálculo e premissas",
+    "en-US": "View calculation and assumptions",
+    "zh-CN": "查看公式与假设"
+  },
+  "priceMethod": {
+    "pt-BR": "Diária = (fixos + logística + custo variável × dias faturados) ÷ [dias faturados × (1 − margem)]. A margem é sobre receita, não markup sobre custo. Equilíbrio = teto[(fixos + logística) ÷ (diária informada − variável)]. Inclua depreciação, capital, manutenção e tributos nos custos conforme sua operação. Não é uma avaliação financeira completa.",
+    "en-US": "Day rate = (fixed + logistics + variable cost × billable days) ÷ [billable days × (1 − margin)]. Margin is on revenue, not a markup on cost. Break-even = ceiling[(fixed + logistics) ÷ (quoted rate − variable cost)]. Include depreciation, capital, maintenance and taxes in costs as appropriate. This is not a complete financial valuation.",
+    "zh-CN": "日租金 =（固定成本 + 物流 + 可变成本 × 计费天数）÷ [计费天数 ×（1 − 利润率）]。利润率以收入为基数，并非成本加成率。盈亏平衡天数 = 向上取整[（固定成本 + 物流）÷（报价日租金 − 日可变成本）]。请按实际业务计入折旧、资金、维护和税费；此处不是完整财务估值。"
+  },
+  "chapterOperations": {
+    "pt-BR": "03 / CENÁRIO DA FAZENDA",
+    "en-US": "03 / FARM SCENARIO",
+    "zh-CN": "03 / 农场情景"
+  },
+  "operationsTitle": {
+    "pt-BR": "Uma janela curta muda a conta da frota.",
+    "en-US": "A shorter window changes the fleet equation.",
+    "zh-CN": "更短的作业窗口，改变机队配置。"
+  },
+  "operationsDesc": {
+    "pt-BR": "Dimensione uma operação, uma classe de máquina e uma capacidade efetiva. Veja quantas máquinas adicionais seriam necessárias.",
+    "en-US": "Size one operation, one machine class and one effective capacity. See how many additional machines would be needed.",
+    "zh-CN": "针对单项作业、同类设备及其有效作业能力，测算需要增租多少台设备。"
+  },
+  "farmNote": {
+    "pt-BR": "Sem previsão meteorológica: a janela é uma premissa sua. Máquinas consideradas equivalentes e disponíveis durante toda a janela. Dias cobrados podem superar os dias úteis de trabalho.",
+    "en-US": "No weather forecast: the window is your assumption. Machines are equivalent and available throughout the window. Charged days may exceed usable work days.",
+    "zh-CN": "不含天气预测：作业窗口由您设定。假定设备同类且整个窗口期均可使用。计费天数可能超过可作业天数。"
+  },
+  "farmArea": {
+    "pt-BR": "Área da operação (ha)",
+    "en-US": "Operation area (ha)",
+    "zh-CN": "作业面积（公顷）"
+  },
+  "capacity": {
+    "pt-BR": "Capacidade efetiva (ha/h por máquina)",
+    "en-US": "Effective capacity (ha/h per machine)",
+    "zh-CN": "单台有效作业能力（公顷/小时）"
+  },
+  "hours": {
+    "pt-BR": "Horas de trabalho / dia",
+    "en-US": "Working hours / day",
+    "zh-CN": "每日作业小时数"
+  },
+  "window": {
+    "pt-BR": "Dias úteis na janela",
+    "en-US": "Usable work days in window",
+    "zh-CN": "窗口内可作业天数"
+  },
+  "owned": {
+    "pt-BR": "Máquinas próprias disponíveis",
+    "en-US": "Own machines available",
+    "zh-CN": "可用自有设备台数"
+  },
+  "charged": {
+    "pt-BR": "Dias cobrados da locação",
+    "en-US": "Charged rental days",
+    "zh-CN": "租赁计费天数"
+  },
+  "farmRate": {
+    "pt-BR": "Diária cotada / máquina (BRL)",
+    "en-US": "Quoted rate / machine-day (BRL)",
+    "zh-CN": "单台设备日租金（BRL）"
+  },
+  "freight": {
+    "pt-BR": "Frete por máquina alugada (BRL)",
+    "en-US": "Freight per rented machine (BRL)",
+    "zh-CN": "每台租赁设备运费（BRL）"
+  },
+  "required": {
+    "pt-BR": "Máquinas necessárias",
+    "en-US": "Machines required",
+    "zh-CN": "所需设备台数"
+  },
+  "additional": {
+    "pt-BR": "Máquinas para alugar",
+    "en-US": "Machines to rent",
+    "zh-CN": "需租赁设备台数"
+  },
+  "ownedCoverage": {
+    "pt-BR": "Cobertura da frota própria",
+    "en-US": "Own fleet area coverage",
+    "zh-CN": "自有机队面积覆盖率"
+  },
+  "rentalCost": {
+    "pt-BR": "Custo estimado da locação",
+    "en-US": "Estimated rental cost",
+    "zh-CN": "预计租赁成本"
+  },
+  "farmAria": {
+    "pt-BR": "Máquinas para alugar por duração da janela de trabalho",
+    "en-US": "Machines to rent by work-window duration",
+    "zh-CN": "不同作业窗口下需租赁的设备台数"
+  },
+  "farmFormula": {
+    "pt-BR": "Ver dimensionamento e limites",
+    "en-US": "View sizing and limits",
+    "zh-CN": "查看配置公式与限制"
+  },
+  "farmMethod": {
+    "pt-BR": "Máquinas necessárias = teto[área ÷ (capacidade efetiva × horas/dia × dias úteis)]. Adicionais = máximo(0, necessárias − próprias). Custo = adicionais × (diária × dias cobrados + frete). A capacidade efetiva já deve refletir manobras e perdas de campo. O custo não inclui combustível, operador ou outros itens que não estejam na sua proposta. Para comparar janelas no gráfico, pressupõe-se disponibilidade contratual suficiente.",
+    "en-US": "Required machines = ceiling[area ÷ (effective capacity × hours/day × usable days)]. Additional = max(0, required − owned). Cost = additional × (rate × charged days + freight). Effective capacity should already reflect turns and field losses. Cost excludes fuel, operators and other items outside your quote. The chart assumes sufficient contractual availability for alternative windows.",
+    "zh-CN": "所需台数 = 向上取整[面积 ÷（有效能力 × 每日小时数 × 可作业天数）]。增租台数 = max（0，所需 − 自有）。成本 = 增租台数 ×（日租金 × 计费天数 + 运费）。有效能力应已计入转弯和田间损失。成本不包含报价外的燃油、操作员等项目。图中不同窗口假定合同可用期足够。"
+  },
+  "baseChapter": {
+    "pt-BR": "04 / BASE AUDITÁVEL",
+    "en-US": "04 / AUDITABLE BASE",
+    "zh-CN": "04 / 可审计数据"
+  },
+  "baseTitle": {
+    "pt-BR": "Todos os 27 estados. Sem pontuação oculta.",
+    "en-US": "All 27 states. No hidden score.",
+    "zh-CN": "全部 27 个州级单位，无隐藏评分。"
+  },
+  "sort": {
+    "pt-BR": "Ordenar comparação dos estados",
+    "en-US": "Sort state comparison",
+    "zh-CN": "排序州级比较"
+  },
+  "sortGap": {
+    "pt-BR": "Área menos locação (pp)",
+    "en-US": "Crop share minus rental share (pp)",
+    "zh-CN": "面积份额减租赁份额（百分点）"
+  },
+  "sortArea": {
+    "pt-BR": "Área das culturas selecionadas",
+    "en-US": "Selected crop area",
+    "zh-CN": "所选作物面积"
+  },
+  "state": {
+    "pt-BR": "Estado",
+    "en-US": "State",
+    "zh-CN": "州"
+  },
+  "areaM": {
+    "pt-BR": "Área, milhões ha",
+    "en-US": "Area, million ha",
+    "zh-CN": "面积，百万公顷"
+  },
+  "difference": {
+    "pt-BR": "Diferença, pp",
+    "en-US": "Difference, pp",
+    "zh-CN": "差值，百分点"
+  },
+  "methodChapter": {
+    "pt-BR": "05 / DA ANÁLISE À VALIDAÇÃO",
+    "en-US": "05 / FROM ANALYSIS TO VALIDATION",
+    "zh-CN": "05 / 从分析到验证"
+  },
+  "methodTitle": {
+    "pt-BR": "Uma hipótese comercial precisa sobreviver ao campo.",
+    "en-US": "A commercial hypothesis needs to survive field validation.",
+    "zh-CN": "商业假设需要经得起实地验证。"
+  },
+  "method1": {
+    "pt-BR": "1. Defina o cliente e a máquina",
+    "en-US": "1. Scope the customer and machine",
+    "zh-CN": "1. 明确客户与设备"
+  },
+  "method1desc": {
+    "pt-BR": "Trator, plantadeira e colheitadeira são perguntas diferentes. O cadastro não identifica tipos nem capacidade da frota. A área é um contexto produtivo, não uma carteira de contratos.",
+    "en-US": "Tractors, planters and harvesters are different questions. The register does not identify fleet types or capacity. Crop area is production context, not a contract pipeline.",
+    "zh-CN": "拖拉机、播种机和收割机对应不同需求。登记数据不提供机型或机队能力。种植面积是生产背景，并非订单储备。"
+  },
+  "method2": {
+    "pt-BR": "2. Valide a operação local",
+    "en-US": "2. Validate the local operation",
+    "zh-CN": "2. 验证当地经营模式"
+  },
+  "method2desc": {
+    "pt-BR": "Investigue frota própria, serviços com operador, deslocamento entre estados, oficinas e propostas reais. Um estabelecimento pode atender clientes fora do estado onde está registrado.",
+    "en-US": "Investigate own fleets, services with operator, cross-state travel, workshops and real quotes. One establishment can serve customers outside its registered state.",
+    "zh-CN": "调研自有机队、含操作员服务、跨州调运、维修网点与真实报价。一个经营场所可能服务登记州以外的客户。"
+  },
+  "method3": {
+    "pt-BR": "3. Substitua hipótese por evidência",
+    "en-US": "3. Replace assumptions with evidence",
+    "zh-CN": "3. 用证据替代假设"
+  },
+  "method3desc": {
+    "pt-BR": "Preços, disponibilidade, utilização e logística não estão nesta base pública. Os simuladores usam suas premissas; valide-as antes de recomendar filial, transferência ou investimento.",
+    "en-US": "Prices, availability, utilisation and logistics are absent from this public base. Simulators use your assumptions; validate them before recommending a branch, transfer or investment.",
+    "zh-CN": "该公共数据不包含价格、可用设备、利用率与物流。模拟器使用您的假设；建议设点、调拨或投资前须先验证。"
+  },
+  "definitions": {
+    "pt-BR": "Definições das fontes e limites analíticos",
+    "en-US": "Source definitions and analytical limits",
+    "zh-CN": "来源定义与分析限制"
+  },
+  "definition1": {
+    "pt-BR": "CEMPRE 9528: unidades locais e pessoal ocupado na CNAE 77.31-4, locação agrícola sem operador. CEMPRE 9418: empresas no Brasil. PAM 1612: área plantada de soja, milho em grão, cana-de-açúcar e algodão herbáceo. A soma das quatro culturas não representa todo o mercado agrícola nem terras físicas únicas; a mesma terra pode ter mais de um plantio. A locação também atende culturas e usos não incluídos.",
+    "en-US": "CEMPRE 9528: local units and employment in CNAE 77.31-4, agricultural rental without operator. CEMPRE 9418: enterprises in Brazil. PAM 1612: planted area of soybeans, grain corn, sugar cane and herbaceous cotton. The four-crop sum is neither the whole agricultural market nor unique physical land; the same land may have multiple crops. Rental also serves omitted crops and uses.",
+    "zh-CN": "CEMPRE 9528：CNAE 77.31-4 不含操作员的农业租赁经营场所与就业人数。CEMPRE 9418：巴西企业数量。PAM 1612：大豆、籽粒玉米、甘蔗与草棉种植面积。四种作物之和既非全部农业市场，也非不重复的土地面积；同一土地可能多次种植。租赁还服务于未列入的作物及用途。"
+  },
+  "definition2": {
+    "pt-BR": "Referências anuais alinhadas de 2022 a 2024. Não são anúncios ativos de hoje. A série CEMPRE usa a metodologia iniciada em 2022, sem comparação anterior. Dados suprimidos ou ausentes permanecem indisponíveis; o traço que denota zero absoluto é tratado como zero. Limites estaduais simplificados do IBGE, para orientação visual.",
+    "en-US": "Aligned annual reference years, 2022–2024. These are not today’s active listings. CEMPRE uses the methodology introduced in 2022, with no earlier comparison. Suppressed or missing values remain unavailable; a dash denoting absolute zero is treated as zero. Simplified official IBGE state boundaries provide visual orientation.",
+    "zh-CN": "年度口径对齐为 2022–2024 年，并非当前有效的租赁挂牌。CEMPRE 使用 2022 年起的新方法，不与更早年份比较。隐匿或缺失值保持不可用；表示绝对零值的横线按零处理。简化后的 IBGE 官方州界仅供视觉定位。"
+  },
+  "definition3": {
+    "pt-BR": "Diferença = 100 × (área estadual ÷ área Brasil − unidades locais estaduais ÷ unidades locais Brasil). O denominador permanece nacional. Densidade é descritiva, não necessidade de frota ou adoção da locação. Não se infere faturamento, transações, previsão ou tamanho financeiro do mercado.",
+    "en-US": "Difference = 100 × (state area ÷ Brazil area − state local units ÷ Brazil local units). Denominators remain national. Density is descriptive, not fleet requirements or rental adoption. No revenue, transactions, forecast or financial market-size estimate is inferred.",
+    "zh-CN": "差值 = 100 ×（州面积 ÷ 巴西面积 − 州经营场所数 ÷ 巴西经营场所数）。分母始终为全国总量。密度为描述性指标，不代表所需机队或租赁渗透率。不据此推断营收、交易、预测或市场金额。"
+  },
+  "boundaries": {
+    "pt-BR": "Limites IBGE",
+    "en-US": "IBGE boundaries",
+    "zh-CN": "IBGE 行政边界"
+  },
+  "personal": {
+    "pt-BR": "Portfólio pessoal independente · Dados públicos agregados · Sem endosso institucional · Coleta",
+    "en-US": "Independent personal portfolio · Public aggregate data · No institutional endorsement · Retrieved",
+    "zh-CN": "独立个人作品集 · 公共汇总数据 · 无机构背书 · 获取日期"
+  },
+  "unavailable": {
+    "pt-BR": "Indisponível",
+    "en-US": "Unavailable",
+    "zh-CN": "不可用"
+  },
+  "questionMissing": {
+    "pt-BR": "Resolva as observações ausentes antes de comparar este estado.",
+    "en-US": "Resolve missing observations before comparing this state.",
+    "zh-CN": "比较该州前，请先核查缺失数据。"
+  },
+  "questionCrop": {
+    "pt-BR": "Quais municípios dependem de frota própria, prestadores com operador ou máquinas registradas em outros estados? Valide isso antes de tratar a diferença de {value} pp como oportunidade comercial.",
+    "en-US": "Which municipalities rely on own fleets, operators or fleets registered elsewhere? Validate this before interpreting the {value} pp difference as a sales opportunity.",
+    "zh-CN": "哪些市镇依赖自有机队、含操作员服务或外州登记设备？将 {value} 个百分点的差异视为商机前，请先验证。"
+  },
+  "questionRental": {
+    "pt-BR": "Quais culturas e mercados vizinhos esses estabelecimentos atendem? Valide capacidade e cobertura antes de interpretar a presença como pressão competitiva local.",
+    "en-US": "Which crops and neighbouring markets do these establishments serve? Validate capacity and coverage before interpreting their presence as local competitive pressure.",
+    "zh-CN": "这些经营场所服务哪些作物与周边市场？判断当地竞争压力前，请先验证能力与覆盖范围。"
+  },
+  "questionBalance": {
+    "pt-BR": "Qual segmento e classe de máquina fariam diferença? Participações próximas não significam atendimento adequado, capacidade suficiente ou saturação.",
+    "en-US": "Which segment and machine class could make a difference? Similar shares do not imply adequate service, sufficient capacity or saturation.",
+    "zh-CN": "哪些细分客户与设备类型值得关注？份额接近并不意味着服务充分、能力足够或市场饱和。"
+  },
+  "mapLabel": {
+    "pt-BR": "{state}: {crop}% da área; {rental}% dos estabelecimentos; diferença {gap} pp",
+    "en-US": "{state}: {crop}% crop share; {rental}% establishment share; difference {gap} pp",
+    "zh-CN": "{state}：作物面积份额 {crop}%；经营场所份额 {rental}%；差值 {gap} 个百分点"
+  },
+  "caption": {
+    "pt-BR": "{year} · {crop} · Denominadores nacionais · Seleção destaca o estado",
+    "en-US": "{year} · {crop} · National denominators · Selection highlights the state",
+    "zh-CN": "{year} · {crop} · 全国分母 · 所选州高亮显示"
+  },
+  "fillFields": {
+    "pt-BR": "Preencha os campos para calcular seu cenário.",
+    "en-US": "Fill in the fields to calculate your scenario.",
+    "zh-CN": "请填写字段以计算情景。"
+  },
+  "invalidPrice": {
+    "pt-BR": "Revise os valores: dias inteiros de 1 a 31, faturados ≤ disponíveis, custos ≥ 0 e margem de 0 a menos de 100%.",
+    "en-US": "Check values: whole days 1–31, billable ≤ available, costs ≥ 0 and margin from 0 to less than 100%.",
+    "zh-CN": "请检查：天数为 1–31 的整数，计费天数不超过可用天数，成本 ≥ 0，利润率为 0 至不足 100%。"
+  },
+  "invalidFarm": {
+    "pt-BR": "Revise os valores: área e capacidade > 0; horas de 0 a 24; dias inteiros > 0; máquinas inteiras ≥ 0. Dias cobrados devem cobrir a janela de trabalho.",
+    "en-US": "Check values: area and capacity > 0; hours above 0 to 24; whole days > 0; whole machines ≥ 0. Charged days must cover the work window.",
+    "zh-CN": "请检查：面积与能力 > 0；小时数 > 0 且 ≤ 24；天数为正整数；设备台数为非负整数。计费天数须覆盖作业窗口。"
+  },
+  "calculated": {
+    "pt-BR": "Cenário calculado com suas premissas.",
+    "en-US": "Scenario calculated using your assumptions.",
+    "zh-CN": "已根据您的假设计算情景。"
+  },
+  "demoStatus": {
+    "pt-BR": "Exemplo fictício ativo. Substitua pelas suas premissas.",
+    "en-US": "Fictional example active. Replace with your assumptions.",
+    "zh-CN": "当前为虚构示例，请替换为您的假设。"
+  },
+  "noBreakeven": {
+    "pt-BR": "Sem equilíbrio",
+    "en-US": "No break-even",
+    "zh-CN": "无法盈亏平衡"
+  },
+  "beyondWindow": {
+    "pt-BR": "{value} dias · acima da disponibilidade",
+    "en-US": "{value} days · exceeds availability",
+    "zh-CN": "{value} 天 · 超出可用天数"
+  },
+  "days": {
+    "pt-BR": "dias",
+    "en-US": "days",
+    "zh-CN": "天"
+  },
+  "billableAxis": {
+    "pt-BR": "Dias faturados por mês",
+    "en-US": "Billable days per month",
+    "zh-CN": "每月计费天数"
+  },
+  "windowAxis": {
+    "pt-BR": "Dias úteis na janela",
+    "en-US": "Usable days in window",
+    "zh-CN": "窗口内可作业天数"
+  },
+  "machinesAxis": {
+    "pt-BR": "Máquinas para alugar",
+    "en-US": "Machines to rent",
+    "zh-CN": "需租赁台数"
+  },
+  "fxTitle": {
+    "pt-BR": "Câmbio de referência",
+    "en-US": "Reference exchange rates",
+    "zh-CN": "参考汇率"
+  },
+  "fxNote": {
+    "pt-BR": "Atualização automática da consulta. Taxas de referência diárias, não cotações de negociação em tempo real. Sem spread ou tarifas.",
+    "en-US": "Automatic query refresh. Daily reference rates, not real-time tradable quotes. Excludes spreads and fees.",
+    "zh-CN": "自动刷新查询。每日参考汇率，非实时可交易报价。不含点差及费用。"
+  },
+  "fxRefresh": {
+    "pt-BR": "Atualizar câmbio",
+    "en-US": "Refresh exchange rates",
+    "zh-CN": "刷新汇率"
+  },
+  "fxLoading": {
+    "pt-BR": "Consultando a fonte…",
+    "en-US": "Checking the source…",
+    "zh-CN": "正在查询来源…"
+  },
+  "fxFailed": {
+    "pt-BR": "Fonte indisponível. Conversões desativadas até uma consulta válida.",
+    "en-US": "Source unavailable. Conversions disabled until a valid response.",
+    "zh-CN": "来源不可用。获得有效响应前暂停换算。"
+  },
+  "fxCached": {
+    "pt-BR": "Sem conexão com a fonte; exibindo última consulta salva. Confira a data.",
+    "en-US": "Source not reachable; showing the last saved response. Check its date.",
+    "zh-CN": "来源暂不可达；显示上次保存结果。请检查日期。"
+  },
+  "fxDate": {
+    "pt-BR": "Referência: {date} · Consulta: {checked}",
+    "en-US": "Reference: {date} · Checked: {checked}",
+    "zh-CN": "汇率日期：{date} · 查询时间：{checked}"
+  },
+  "fxStale": {
+    "pt-BR": "Referência com mais de 4 dias. Conversões desativadas; confira a fonte.",
+    "en-US": "Reference is over 4 days old. Conversions disabled; check the source.",
+    "zh-CN": "参考汇率超过 4 天，已暂停换算；请核查来源。"
+  },
+  "fxAmount": {
+    "pt-BR": "Valor para converter (BRL)",
+    "en-US": "Amount to convert (BRL)",
+    "zh-CN": "待换算金额（BRL）"
+  },
+  "fxSource": {
+    "pt-BR": "Fonte: Banco Central Europeu · Base EUR, taxas cruzadas para BRL",
+    "en-US": "Source: European Central Bank · EUR base, cross rates to BRL",
+    "zh-CN": "来源：欧洲中央银行 · 以 EUR 为基准交叉换算为 BRL"
+  },
+  "fxCurrency": {
+    "pt-BR": "Moeda dos resultados",
+    "en-US": "Results currency",
+    "zh-CN": "结果显示货币"
+  },
+  "fxMissing": {
+    "pt-BR": "Sem câmbio válido: resultados em BRL.",
+    "en-US": "No valid exchange rate: results in BRL.",
+    "zh-CN": "无有效汇率：结果以 BRL 显示。"
+  },
+  "journeysAria": {
+    "pt-BR": "Jornadas para locadoras e gestores de fazenda",
+    "en-US": "Journeys for rental operators and farm managers",
+    "zh-CN": "租赁公司与农场管理者的分析路径"
+  },
+  "fxFresh": {
+    "pt-BR": "Consulta concluída na fonte oficial. Confira abaixo a data da referência.",
+    "en-US": "Official-source query completed. Check the reference date below.",
+    "zh-CN": "官方来源查询完成。请查看下方参考汇率日期。"
+  },
+  "codeRepo": {
+    "pt-BR": "Código e documentação no GitHub",
+    "en-US": "Code and documentation on GitHub",
+    "zh-CN": "GitHub 源码与文档"
+  }
+}
