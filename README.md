@@ -1,5 +1,9 @@
 # Agri Rental Atlas
 
+[Explore the public portal](https://edilvandopereira-dot.github.io/agri-rental-atlas/) · [English post for review](https://edilvandopereira-dot.github.io/agri-rental-atlas/post-review.html)
+
+![Validate data and planning models](https://github.com/edilvandopereira-dot/agri-rental-atlas/actions/workflows/check.yml/badge.svg)
+
 An independent personal portfolio by Edilvando Eufrazio. A reproducible public-data screen for agricultural rental businesses, with explicit planning scenarios for rental operators and farm managers.
 
 ## Current delivery — 20 October 2026
@@ -10,7 +14,7 @@ Portal address: [Agri Rental Atlas](https://edilvandopereira-dot.github.io/agri-
 
 Local build: `docs/index.html`.
 
-- Portuguese, English and Simplified Chinese: 163 translation keys, charts, explanations, accessibility labels and locale-aware number formatting. Language preference persists locally; changing language preserves filters and scenario inputs. Official state names, CNAE and source identifiers are preserved.
+- Portuguese, English and Simplified Chinese: translated charts, explanations, accessibility labels and locale-aware number formatting. Language preference persists locally; changing language preserves filters and scenario inputs. Official state names, CNAE and source identifiers are preserved.
 - Market geography: 27 state-level units × 2022–2024, national denominators, selectable state map, paired-share comparison, state history, sortable table and downloadable JSON.
 - Rental economics: user-entered costs, utilisation, target margin and optional quote; required day rate, quoted-rate margin and break-even days. The example button loads fictional assumptions explicitly labelled as such.
 - Farm work window: area, effective machine capacity, own fleet, usable days and charged rental days; machine requirements, additional rental units and estimated rental cost. No weather forecast is implied.
@@ -60,4 +64,8 @@ Collect comparable, permissioned quotes with timestamp, municipality, machine ty
 
 ## Publication status
 
-Prepared for GitHub Pages. No LinkedIn post has been published for this case. New posts require Edilvando’s review; the first soybean post’s authorization does not extend to subsequent posts.
+Published on GitHub Pages and verified on 20 October 2026. No LinkedIn post has been published for this case. New posts require Edilvando’s review; the first soybean post’s authorization does not extend to subsequent posts.
+
+## Editorial figure
+
+![Crop footprint and rental-establishment geography, 2024](assets/rental-geography-2024.png)
