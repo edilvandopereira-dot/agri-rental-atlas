@@ -1,0 +1,25 @@
+Mato Grosso accounts for 26.6% of Brazil’s planted area in four major crops — but only 6.3% of its agricultural machinery rental establishments.
+
+Would you open a rental branch there?
+
+I would investigate first.
+
+I built Agri Rental Atlas to compare two official IBGE datasets: crop area and registered rental establishments, aligned to 2022–2024.
+
+The 2024 contrast is striking: 21.17 million planted hectares across soybeans, corn, sugar cane and cotton, alongside 267 rental establishments in Mato Grosso.
+
+But an establishment is not a machine. Planted area is not rental demand. And this rental classification excludes services with an operator.
+
+Before calling that difference an opportunity, I would check three things:
+• How much work is handled by farmers’ own fleets?
+• How much is served by contractors or fleets registered in other states?
+• Can utilisation and transport costs support a viable day rate?
+
+The portal turns those questions into an exploration: a state map, national comparisons and transparent planning calculators for rental operators and farm managers. Scenario inputs are kept separate from observed market data.
+
+Explore the portal: https://edilvandopereira-dot.github.io/agri-rental-atlas/
+Data, code and checks: https://github.com/edilvandopereira-dot/agri-rental-atlas
+
+If you managed an agricultural rental fleet, which evidence would you need before committing a machine to a new region?
+
+#DataScience #Agriculture #DecisionScience
