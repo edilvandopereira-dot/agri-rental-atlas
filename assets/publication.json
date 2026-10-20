@@ -39,6 +39,9 @@
       1350
     ]
   },
-  "linkedin_post_status": "draft_for_owner_review",
-  "privacy_scope": "Only this project code, aggregate public source data, planning models, public figure and review draft were uploaded; workspace campaign history and institutional/personal documents were excluded."
+  "linkedin_post_status": "published_and_verified",
+  "privacy_scope": "Only this project code, aggregate public source data, planning models, public figure and review draft were uploaded; workspace campaign history and institutional/personal documents were excluded.",
+  "linkedin_post_url": "https://www.linkedin.com/feed/update/urn:li:share:7518410396161011712/",
+  "linkedin_publication_date": "2026-10-20",
+  "linkedin_publication_note": "Owner-approved English text and source-based figure, with verified alt text. Engagement results are tracked separately; no performance claim at publication."
 }
